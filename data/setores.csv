@@ -1,0 +1,380 @@
+﻿"Petróleo, Gás e Biocombustíveis",AZTE
+"Petróleo, Gás e Biocombustíveis",BRAV
+"Petróleo, Gás e Biocombustíveis",CSAN
+"Petróleo, Gás e Biocombustíveis",RPMG
+"Petróleo, Gás e Biocombustíveis",PETR
+"Petróleo, Gás e Biocombustíveis",RECV
+"Petróleo, Gás e Biocombustíveis",PRIO
+"Petróleo, Gás e Biocombustíveis",RAIZ
+"Petróleo, Gás e Biocombustíveis",UGPA
+"Petróleo, Gás e Biocombustíveis",VBBR
+"Petróleo, Gás e Biocombustíveis",LUPA
+"Petróleo, Gás e Biocombustíveis",OPCT
+"Petróleo, Gás e Biocombustíveis",OSXB
+Materiais Básicos,AURA
+Materiais Básicos,BRAP
+Materiais Básicos,CBAV
+Materiais Básicos,CMIN
+Materiais Básicos,LTEL
+Materiais Básicos,LTLA
+Materiais Básicos,VALE
+Materiais Básicos,FESA
+Materiais Básicos,GGBR
+Materiais Básicos,GOAU
+Materiais Básicos,CSNA
+Materiais Básicos,USIM
+Materiais Básicos,MGEL
+Materiais Básicos,PATI
+Materiais Básicos,TKNO
+Materiais Básicos,PMAM
+Materiais Básicos,BRKM
+Materiais Básicos,DEXP
+Materiais Básicos,FHER
+Materiais Básicos,NUTR
+Materiais Básicos,VITT
+Materiais Básicos,CRPG
+Materiais Básicos,UNIP
+Materiais Básicos,DXCO
+Materiais Básicos,EUCA
+Materiais Básicos,KLBN
+Materiais Básicos,MSPA
+Materiais Básicos,NEMO
+Materiais Básicos,SUZB
+Materiais Básicos,RANI
+Materiais Básicos,SNSY
+Bens Industriais,EMBR3
+Bens Industriais,ETER
+Bens Industriais,HAGA
+Bens Industriais,PTBL
+Bens Industriais,AZEV
+Bens Industriais,SOND
+Bens Industriais,EMBJ
+Bens Industriais,FRAS
+Bens Industriais,POMO
+Bens Industriais,RAPT
+Bens Industriais,RCSL
+Bens Industriais,RSUL
+Bens Industriais,TUPY
+Bens Industriais,MWET
+Bens Industriais,SHUL
+Bens Industriais,WEGE
+Bens Industriais,EALT
+Bens Industriais,AERI
+Bens Industriais,ARML
+Bens Industriais,BDLL
+Bens Industriais,INEP
+Bens Industriais,KEPL
+Bens Industriais,FRIO
+Bens Industriais,MILS
+Bens Industriais,NORD
+Bens Industriais,PTCA
+Bens Industriais,ROMI
+Bens Industriais,MTSA
+Bens Industriais,TASA
+Bens Industriais,AZUL
+Bens Industriais,GOLL
+Bens Industriais,VSPT
+Bens Industriais,MRSA
+Bens Industriais,RAIL
+Bens Industriais,HBSA
+Bens Industriais,LOGN
+Bens Industriais,LUXM
+Bens Industriais,JSLG
+Bens Industriais,TGMA
+Bens Industriais,CRTE
+Bens Industriais,ECOR
+Bens Industriais,MOTV
+Bens Industriais,TPIS
+Bens Industriais,AGRU
+Bens Industriais,HMOB
+Bens Industriais,IVPR
+Bens Industriais,PSVM
+Bens Industriais,PORT
+Bens Industriais,BBML
+Bens Industriais,CTAX
+Bens Industriais,DTCY
+Bens Industriais,ALPK
+Bens Industriais,GGPS
+Bens Industriais,PRNR
+Bens Industriais,SEQL
+Bens Industriais,VLID
+Bens Industriais,EPAR
+Bens Industriais,MMAQ
+Bens Industriais,RBNS
+Bens Industriais,WLMM
+Consumo não Cíclico,BRFS3
+Consumo não Cíclico,TTEN
+Consumo não Cíclico,AGXY
+Consumo não Cíclico,APTI
+Consumo não Cíclico,SOJA
+Consumo não Cíclico,AGRO
+Consumo não Cíclico,CTCA
+Consumo não Cíclico,EGGY
+Consumo não Cíclico,SLCE
+Consumo não Cíclico,LAND
+Consumo não Cíclico,JALL
+Consumo não Cíclico,SMTO
+Consumo não Cíclico,BAUH
+Consumo não Cíclico,FICT
+Consumo não Cíclico,JBSS
+Consumo não Cíclico,MBRF
+Consumo não Cíclico,BEEF
+Consumo não Cíclico,MNPR
+Consumo não Cíclico,CAML
+Consumo não Cíclico,JOPA
+Consumo não Cíclico,MDIA
+Consumo não Cíclico,ODER
+Consumo não Cíclico,ABEV
+Consumo não Cíclico,NATU
+Consumo não Cíclico,BOBR
+Consumo não Cíclico,ASAI
+Consumo não Cíclico,GMAT
+Consumo não Cíclico,PCAR
+Consumo Cíclico,AZZA
+Consumo Cíclico,CEAB
+Consumo Cíclico,CGRA
+Consumo Cíclico,GUAR
+Consumo Cíclico,AMAR
+Consumo Cíclico,LREN
+Consumo Cíclico,VSTE
+Consumo Cíclico,ALLD
+Consumo Cíclico,BHIA
+Consumo Cíclico,MGLU
+Consumo Cíclico,AMER
+Consumo Cíclico,ESPA
+Consumo Cíclico,SBFG
+Consumo Cíclico,LLBI
+Consumo Cíclico,PETZ
+Consumo Cíclico,LJQQ
+Consumo Cíclico,AVLL
+Consumo Cíclico,CALI
+Consumo Cíclico,CURY
+Consumo Cíclico,CYRE
+Consumo Cíclico,DIRR
+Consumo Cíclico,EVEN
+Consumo Cíclico,EZTC
+Consumo Cíclico,FIEI
+Consumo Cíclico,GFSA
+Consumo Cíclico,HBOR
+Consumo Cíclico,INNC
+Consumo Cíclico,JHSF
+Consumo Cíclico,JFEN
+Consumo Cíclico,KLAS
+Consumo Cíclico,LAVV
+Consumo Cíclico,MELK
+Consumo Cíclico,MTRE
+Consumo Cíclico,MDNE
+Consumo Cíclico,MRVE
+Consumo Cíclico,PDGR
+Consumo Cíclico,PLPL
+Consumo Cíclico,CCTY
+Consumo Cíclico,RDNI
+Consumo Cíclico,RSID
+Consumo Cíclico,TCSA
+Consumo Cíclico,TEGA
+Consumo Cíclico,TEND
+Consumo Cíclico,TRIS
+Consumo Cíclico,VIVR
+Consumo Cíclico,CEDO
+Consumo Cíclico,CTNM
+Consumo Cíclico,DOHL
+Consumo Cíclico,CATA
+Consumo Cíclico,CTKA
+Consumo Cíclico,PTNT
+Consumo Cíclico,CTSA
+Consumo Cíclico,SGPS
+Consumo Cíclico,TXRX
+Consumo Cíclico,TFCO
+Consumo Cíclico,ALPA
+Consumo Cíclico,CAMB
+Consumo Cíclico,GRND
+Consumo Cíclico,VULC
+Consumo Cíclico,MNDL
+Consumo Cíclico,TECN
+Consumo Cíclico,VIVA
+Consumo Cíclico,WHRL
+Consumo Cíclico,TOKY
+Consumo Cíclico,UCAS
+Consumo Cíclico,WEST
+Consumo Cíclico,HETA
+Consumo Cíclico,AMOB
+Consumo Cíclico,MYPK
+Consumo Cíclico,LEVE
+Consumo Cíclico,PLAS
+Consumo Cíclico,HOOT
+Consumo Cíclico,MEAL
+Consumo Cíclico,ZAMP
+Consumo Cíclico,BMKS
+Consumo Cíclico,ESTR
+Consumo Cíclico,RVEE
+Consumo Cíclico,AHEB
+Consumo Cíclico,SHOW
+Consumo Cíclico,CVCB
+Consumo Cíclico,SMFT
+Consumo Cíclico,ANIM
+Consumo Cíclico,ATED
+Consumo Cíclico,BIED
+Consumo Cíclico,COGN
+Consumo Cíclico,CSED
+Consumo Cíclico,SALT
+Consumo Cíclico,OBTC
+Consumo Cíclico,SEER
+Consumo Cíclico,VTRU
+Consumo Cíclico,YDUQ
+Consumo Cíclico,RENT
+Consumo Cíclico,MOVI
+Consumo Cíclico,VAMO
+Consumo Cíclico,DOTZ
+Saúde,BIOM
+Saúde,OFSA
+Saúde,AALR
+Saúde,DASA
+Saúde,FLRY
+Saúde,HAPV
+Saúde,MATD
+Saúde,ODPV
+Saúde,ONCO
+Saúde,QUAL
+Saúde,RDOR
+Saúde,BALM
+Saúde,LMED
+Saúde,BLAU
+Saúde,DMVF
+Saúde,PNVL
+Saúde,EUFA
+Saúde,HYPE
+Saúde,PGMN
+Saúde,PFRM
+Saúde,RADL
+Saúde,VVEO
+Tecnologia da Informação,INTB
+Tecnologia da Informação,MLAS
+Tecnologia da Informação,POSI
+Tecnologia da Informação,BMOB
+Tecnologia da Informação,BRQB
+Tecnologia da Informação,ENJU
+Tecnologia da Informação,IFCM
+Tecnologia da Informação,LWSA
+Tecnologia da Informação,CASH
+Tecnologia da Informação,NGRD
+Tecnologia da Informação,PDTC
+Tecnologia da Informação,QUSW
+Tecnologia da Informação,REAG
+Tecnologia da Informação,TRAD
+Tecnologia da Informação,TOTS
+Tecnologia da Informação,WDCN
+Comunicações,BRST
+Comunicações,DESK
+Comunicações,OIBR
+Comunicações,TELB
+Comunicações,VIVT
+Comunicações,TIMS
+Comunicações,FIQE
+Utilidade Pública,AESO
+Utilidade Pública,AFLT
+Utilidade Pública,ALUP
+Utilidade Pública,CBEE
+Utilidade Pública,AURE
+Utilidade Pública,AXIA
+Utilidade Pública,CEBR
+Utilidade Pública,CEED
+Utilidade Pública,CLSC
+Utilidade Pública,GPAR
+Utilidade Pública,CMIG
+Utilidade Pública,CEEB
+Utilidade Pública,COCE
+Utilidade Pública,COMR
+Utilidade Pública,CPLE
+Utilidade Pública,CPFE
+Utilidade Pública,EKTR
+Utilidade Pública,EMAE
+Utilidade Pública,ENGI
+Utilidade Pública,ENMT
+Utilidade Pública,ENEV
+Utilidade Pública,EGIE
+Utilidade Pública,EQPA
+Utilidade Pública,EQMA
+Utilidade Pública,EQTL
+Utilidade Pública,GEPA
+Utilidade Pública,ISAE
+Utilidade Pública,LIGH
+Utilidade Pública,LIGT
+Utilidade Pública,NEOE
+Utilidade Pública,PRMN
+Utilidade Pública,REDE
+Utilidade Pública,RNEW
+Utilidade Pública,RIOS
+Utilidade Pública,SRNA
+Utilidade Pública,TAEE
+Utilidade Pública,AMBP
+Utilidade Pública,CASN
+Utilidade Pública,CSMG
+Utilidade Pública,IGSN
+Utilidade Pública,ORVR
+Utilidade Pública,SBSP
+Utilidade Pública,SAPR
+Utilidade Pública,CEGR
+Utilidade Pública,CGAS
+Utilidade Pública,PASS
+Financeiro,ABCB
+Financeiro,RPAD
+Financeiro,BAZA
+Financeiro,BMGB
+Financeiro,BPAN
+Financeiro,BGIP
+Financeiro,BEES
+Financeiro,BPAR
+Financeiro,BRSR
+Financeiro,BRBI
+Financeiro,BBDC
+Financeiro,BBAS
+Financeiro,BSLI
+Financeiro,BPAC
+Financeiro,INBR
+Financeiro,ITUB
+Financeiro,BMIN
+Financeiro,BMEB
+Financeiro,BNBR
+Financeiro,PINE
+Financeiro,SANB
+Financeiro,MERC
+Financeiro,BSCS
+Financeiro,RBRA
+Financeiro,PLSC
+Financeiro,G2DI
+Financeiro,PPLA
+Financeiro,B3SA
+Financeiro,CSUD
+Financeiro,BBSE
+Financeiro,CXSE
+Financeiro,PSSA
+Financeiro,IRBR
+Financeiro,WIZC
+Financeiro,ALOS
+Financeiro,GSHP
+Financeiro,HBTS
+Financeiro,HBRE
+Financeiro,IGTI
+Financeiro,LOGG
+Financeiro,MULT
+Financeiro,PEAB
+Financeiro,SCAR
+Financeiro,SYNE
+Financeiro,LPSB
+Financeiro,NEXP
+Financeiro,ADMF
+Financeiro,ITSA
+Financeiro,MOAR
+Financeiro,SIMH
+Financeiro,CTBA
+Financeiro,MCRJ
+Financeiro,PMSP
+Outros,QVQP
+Outros,BETP
+Outros,MAPT
+Outros,OPGM
+Outros,FIGE
+Outros,PPAR
+Outros,PRPT
+Outros,OPSE
+Outros,OPTS

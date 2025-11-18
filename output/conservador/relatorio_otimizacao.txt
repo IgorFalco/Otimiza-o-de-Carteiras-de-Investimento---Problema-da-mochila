@@ -1,0 +1,40 @@
+================================================================================
+                    RELATÓRIO DE OTIMIZAÇÃO DE CARTEIRA
+                         Gerado em: 18/11/2025 20:02:06
+================================================================================
+
+MÉTRICAS GERAIS
+--------------------------------------------------------------------------------
+Ativos: 11
+Retorno: 0.3049 (30.49%)
+Risco: 0.2500
+Sharpe: 1.2195
+Investimento: R$ 99,998.56
+Gap: 0.00%
+Tempo: 0.14s
+
+DISTRIBUIÇÃO SETORIAL
+--------------------------------------------------------------------------------
+Bens Industriais     3.0 ativos  R$    24,996.25  ( 25.0%)
+Consumo não Cíclico  2.0 ativos  R$     5,107.36  (  5.1%)
+Financeiro           2.0 ativos  R$    24,978.71  ( 25.0%)
+Materiais Básicos    2.0 ativos  R$    24,998.20  ( 25.0%)
+Utilidade Pública    2.0 ativos  R$    19,918.04  ( 19.9%)
+
+DETALHAMENTO DOS ATIVOS
+--------------------------------------------------------------------------------
+Ticker   Empresa                   Setor           Invest.      %      Retorno  Risco    Sharpe  
+--------------------------------------------------------------------------------
+BBSE3    BBSEGURIDADE              Financeiro         19,971.36  20.0%    6.59%   0.1650   0.3995
+KLBN11   KLABIN S/A                Materiais Básic    19,928.80  19.9%    6.60%   0.2094   0.3151
+SBSP3    SABESP                    Utilidade Públi    19,912.50  19.9%   18.54%   0.2316   0.8007
+EMBR3    EMBRAER                   Bens Industriai    19,329.36  19.3%   94.43%   0.3953   2.3889
+WEGE3    WEG                       Bens Industriai     5,646.39   5.6%   36.96%   0.2513   1.4709
+JBSS3    JBS                       Consumo não Cíc     5,082.00   5.1%   36.91%   0.3169   1.1649
+KLBN3    KLABIN S/A                Materiais Básic     5,069.40   5.1%   13.43%   0.2296   0.5850
+PSSA3    PORTO SEGURO              Financeiro          5,007.35   5.0%   24.86%   0.2139   1.1625
+BRFS3    BRF SA                    Consumo não Cíc        25.36   0.0%   65.44%   0.3930   1.6651
+FRAS3    FRAS-LE                   Bens Industriai        20.50   0.0%   22.31%   0.2222   1.0041
+SAPR3    SANEPAR                   Utilidade Públi         5.54   0.0%    3.52%   0.2665   0.1320
+
+================================================================================

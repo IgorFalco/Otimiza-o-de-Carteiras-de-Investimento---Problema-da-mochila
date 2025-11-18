@@ -21,3 +21,7 @@ gurobi.log
 # OS
 .DS_Store
 Thumbs.db
+*.tex
+
+*.csv
+*.xlsx

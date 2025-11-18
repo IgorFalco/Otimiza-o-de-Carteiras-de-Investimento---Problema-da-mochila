@@ -1,0 +1,6 @@
+pandas
+numpy
+gurobipy==12.0.0
+matplotlib
+seaborn
+openpyxl
