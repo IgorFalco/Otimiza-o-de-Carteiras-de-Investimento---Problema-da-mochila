@@ -21,7 +21,13 @@ gurobi.log
 # OS
 .DS_Store
 Thumbs.db
+
+# LaTeX
 *.tex
 
-*.csv
-*.xlsx
+# Dados e resultados
+data/COTAHIST*.TXT
+output/*.csv
+output/*.xlsx
+output/*/*.csv
+output/*/*.xlsx

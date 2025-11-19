@@ -46,9 +46,12 @@ Este sistema processa dados históricos de cotações da B3 (COTAHIST) e otimiza
    - Salve o arquivo `gurobi.lic` em `C:\Users\<seu_usuario>\gurobi.lic`
    - Ou configure a variável: `set GRB_LICENSE_FILE=C:\caminho\para\gurobi.lic`
 
-5. **Adicione arquivo COTAHIST**:
-   - Baixe o arquivo COTAHIST em https://www.b3.com.br/pt_br/market-data-e-indices/servicos-de-dados/market-data/historico/mercado-a-vista/cotacoes-historicas/
-   - Coloque o arquivo `COTAHIST_A2024.TXT` na pasta `data/`
+5. **Baixe os dados históricos da B3**:
+   - Acesse: https://www.b3.com.br/pt_br/market-data-e-indices/servicos-de-dados/market-data/historico/mercado-a-vista/cotacoes-historicas/
+   - Baixe o arquivo COTAHIST anual (exemplo: 2024)
+   - Extraia o arquivo `COTAHIST_A2024.TXT` do ZIP
+   - Coloque o arquivo na pasta `data/`
+   - **Instruções detalhadas**: Veja `data/README.md`
 
 ## 📊 Uso
 
